@@ -1,0 +1,2143 @@
+{
+  "conversations": 
+    [
+        
+           
+        {
+            "Question": "What is reflection of light?",
+            "Answer": "Reflection of light is the bouncing back of light rays when they hit a smooth surface."
+        },
+        {
+            "Question": "What is the angle of incidence?",
+            "Answer": "The angle between the incident ray and the normal to the surface at the point of incidence."
+        },
+
+        {
+            "Question": "What is the angle of reflection?",
+            "Answer": "The angle between the reflected ray and the normal to the surface at the point of reflection."
+        },
+        {
+            "Question": "State the first law of reflection.",
+            "Answer": "The angle of incidence is equal to the angle of reflection."
+        },
+        {
+            "Question": "State the second law of reflection.",
+            "Answer": "The incident ray, the normal to the surface at the point of incidence, and the reflected ray all lie in the same plane."
+        },
+        {
+            "Question": "What is a plane mirror?",
+            "Answer": "A flat, smooth mirror that reflects light to form an image."
+        },
+        {
+            "Question": "What type of image is formed by a plane mirror?",
+            "Answer": "A virtual, erect, and laterally inverted image."
+        },
+        {
+            "Question": "What is lateral inversion?",
+            "Answer": "The phenomenon where the left side of an object appears as the right side in the image and vice versa."
+        },
+        {
+            "Question": "What is the focal length of a plane mirror?",
+            "Answer": "The focal length of a plane mirror is infinity."
+        },
+        {
+            "Question": "What is the nature of the image formed by a concave mirror when the object is placed at the center of curvature?",
+            "Answer": "The image is real, inverted, and of the same size as the object."
+        },
+        {
+            "Question": "What happens to the image when an object is placed at the focus of a concave mirror?",
+            "Answer": "The image is formed at infinity and is highly enlarged."
+        },
+        {
+            "Question": "What type of mirror is used as a rearview mirror in vehicles?",
+            "Answer": "A convex mirror."
+        },
+        {
+            "Question": "What is the nature of the image formed by a convex mirror?",
+            "Answer": "The image is virtual, erect, and diminished."
+        },
+        {
+            "Question": "What is the principal axis of a mirror?",
+            "Answer": "The line passing through the center of curvature and the pole of the mirror."
+        },
+        {
+            "Question": "What is the pole of a mirror?",
+            "Answer": "The central point of the mirror's surface."
+        },
+        {
+            "Question": "Define the center of curvature of a mirror.",
+            "Answer": "The point on the principal axis at a distance equal to the radius of curvature from the mirror."
+        },
+        {
+            "Question": "What is the radius of curvature of a mirror?",
+            "Answer": "The distance between the center of curvature and the pole of the mirror."
+        },
+        {
+            "Question": "What is the focus of a mirror?",
+            "Answer": "The point on the principal axis where parallel rays of light converge after reflection."
+        },
+        {
+            "Question": "What is the relationship between the focal length and the radius of curvature of a mirror?",
+            "Answer": "The focal length is half of the radius of curvature (f = R/2)."
+        },
+        {
+            "Question": "What is the formula for magnification in mirrors?",
+            "Answer": "Magnification (m) = height of image / height of object = - image distance / object distance."
+        },
+        {
+            "Question": "What is the nature of the image formed by a concave mirror when the object is placed between the pole and the focus?",
+            "Answer": "The image is virtual, erect, and enlarged."
+        },
+        {
+            "Question": "What type of mirror is used in shaving mirrors?",
+            "Answer": "A concave mirror."
+        },
+        {
+            "Question": "What type of image is formed by a convex mirror regardless of the object's position?",
+            "Answer": "A virtual and diminished image."
+        },
+        {
+            "Question": "How does a convex mirror affect the field of view?",
+            "Answer": "It provides a wider field of view."
+        },
+        {
+            "Question": "What is the nature of the image formed by a concave mirror when the object is placed beyond the center of curvature?",
+            "Answer": "The image is real, inverted, and diminished."
+        },
+        {
+            "Question": "What is the formula for the mirror equation?",
+            "Answer": "1/f = 1/v + 1/u, where f is the focal length, v is the image distance, and u is the object distance."
+        },
+        {
+            "Question": "What is a real image?",
+            "Answer": "An image that can be obtained on a screen as it is formed by actual convergence of light rays."
+        },
+        {
+            "Question": "What is a virtual image?",
+            "Answer": "An image that cannot be obtained on a screen as it is formed by the apparent divergence of light rays."
+        },
+        {
+            "Question": "What type of mirror can form both real and virtual images?",
+            "Answer": "A concave mirror."
+        },
+        {
+            "Question": "What is the sign convention for the focal length of a concave mirror?",
+            "Answer": "The focal length is taken as negative."
+        },
+        {
+            "Question": "What is the sign convention for the focal length of a convex mirror?",
+            "Answer": "The focal length is taken as positive."
+        },
+        {
+            "Question": "What is the principal focus of a convex mirror?",
+            "Answer": "The point where light rays parallel to the principal axis appear to diverge from after reflection."
+        },
+        {
+            "Question": "What happens to light rays parallel to the principal axis when they strike a concave mirror?",
+            "Answer": "They converge at the focus."
+        },
+        {
+            "Question": "What happens to light rays parallel to the principal axis when they strike a convex mirror?",
+            "Answer": "They appear to diverge from the focus."
+        },
+        {
+            "Question": "What is the use of concave mirrors in torches and headlights?",
+            "Answer": "They reflect light rays to form a strong, parallel beam."
+        },
+        {
+            "Question": "What is the use of convex mirrors in stores and parking lots?",
+            "Answer": "They are used for surveillance as they provide a wide-angle view."
+        },
+        {
+            "Question": "Why can't a virtual image be obtained on a screen?",
+            "Answer": "Because it is formed by the apparent divergence of light rays, not by their actual convergence."
+        },
+        {
+            "Question": "What is the relationship between the object distance and the image distance in a plane mirror?",
+            "Answer": "The object distance is equal to the image distance."
+        },
+        {
+            "Question": "How does the size of the image formed by a plane mirror compare to the size of the object?",
+            "Answer": "The image is the same size as the object."
+        },
+        {
+            "Question": "What is the effect of a plane mirror on the orientation of the image?",
+            "Answer": "The image is laterally inverted."
+        },
+        {
+            "Question": "What happens to the image when the object is moved closer to a concave mirror?",
+            "Answer": "The image moves further away from the mirror and becomes larger."
+        },
+        {
+            "Question": "What is the use of concave mirrors in solar furnaces?",
+            "Answer": "They concentrate sunlight to a point to produce high temperatures."
+        },
+        {
+            "Question": "What is the nature of the image formed by a concave mirror when the object is placed at infinity?",
+            "Answer": "The image is formed at the focus, is real, inverted, and highly diminished."
+        },
+        {
+            "Question": "What type of mirror is used in makeup mirrors and why?",
+            "Answer": "A concave mirror, because it forms a magnified image."
+        },
+        {
+            "Question": "What is the normal to the surface at the point of incidence?",
+            "Answer": "A line perpendicular to the surface at the point of incidence."
+        },
+        {
+            "Question": "What happens to light when it strikes a rough surface?",
+            "Answer": "It gets scattered in different directions, a phenomenon known as diffuse reflection."
+        },
+        {
+            "Question": "What is the incident ray?",
+            "Answer": "The ray of light that strikes a surface."
+        },
+        {
+            "Question": "What is the reflected ray?",
+            "Answer": "The ray of light that bounces back from the surface after reflection."
+        },
+        {
+            "Question": "What is the main characteristic of an image formed by a convex mirror?",
+            "Answer": "The image is always virtual, erect, and smaller than the object."
+        },
+        {
+            "Question": "What is the application of plane mirrors in everyday life?",
+            "Answer": "They are commonly used in household mirrors, dressing mirrors, and periscopes."
+        },
+        {
+            "Question": "What is the main use of a concave mirror in an astronomical telescope?",
+            "Answer": "To gather and focus light from distant objects."
+        },
+        {
+            "Question": "How does a dentist use a concave mirror?",
+            "Answer": "To magnify the image of teeth for better visibility."
+        },
+        {
+            "Question": "What happens to the image when an object is placed between the focus and the center of curvature of a concave mirror?",
+            "Answer": "The image is real, inverted, and enlarged."
+        },
+        {
+            "Question": "What is the relationship between the object distance and the image distance in a convex mirror?",
+            "Answer": "The image distance is always less than the object distance."
+        },
+        {
+            "Question": "What is a ray diagram?",
+            "Answer": "A diagram that shows the path of light rays through a mirror or lens system."
+        },
+        {
+            "Question": "What does the term 'aperture' of a mirror refer to?",
+            "Answer": "The diameter of the mirror."
+        },
+        {
+            "Question": "What is the principal focus of a concave mirror?",
+            "Answer": "The point where light rays parallel to the principal axis converge after reflection."
+        },
+        {
+            "Question": "How is the image formed by a convex mirror when the object is at infinity?",
+            "Answer": "The image is virtual, erect, and highly diminished, formed at the focus."
+        },
+        {
+            "Question": "What type of image does a plane mirror always form?",
+            "Answer": "A virtual and erect image."
+        },
+        {
+            "Question": "Why are convex mirrors used in vehicle side mirrors?",
+            "Answer": "Because they provide a wider field of view and reduce blind spots."
+        },
+        {
+            "Question": "What happens to parallel light rays after reflecting from a convex mirror?",
+            "Answer": "They appear to diverge from the focal point behind the mirror."
+        },
+        {
+            "Question": "In which mirror does the image size decrease as the object moves closer to the mirror?",
+            "Answer": "In a convex mirror."
+        },
+        {
+            "Question": "What is the effect of a concave mirror on parallel rays of light?",
+            "Answer": "They converge to a point called the focus."
+        },
+        {
+            "Question": "What happens to the size of the image formed by a concave mirror as the object is moved closer to the mirror?",
+            "Answer": "The image size increases."
+        },
+        {
+            "Question": "Why is a plane mirror considered to have an infinite focal length?",
+            "Answer": "Because parallel rays remain parallel after reflection and never converge."
+        },
+        {
+            "Question": "What kind of reflection occurs from a rough surface?",
+            "Answer": "Diffuse reflection."
+        },
+        {
+            "Question": "What is the formula for the focal length of a mirror using the radius of curvature?",
+            "Answer": "f = R/2, where R is the radius of curvature."
+        },
+        {
+            "Question": "What is the role of the normal line in the reflection of light?",
+            "Answer": "It serves as a reference for measuring angles of incidence and reflection."
+        },
+        {
+            "Question": "What type of image is formed by a concave mirror when the object is placed at the center of curvature?",
+            "Answer": "The image is real, inverted, and the same size as the object."
+        },
+        {
+            "Question": "Why are concave mirrors used in reflecting telescopes?",
+            "Answer": "To gather more light and produce a brighter image of distant objects."
+        },
+        {
+            "Question": "What type of image is formed by a concave mirror when the object is placed beyond the center of curvature?",
+            "Answer": "The image is real, inverted, and smaller than the object."
+        },
+        {
+            "Question": "What is the effect of increasing the curvature of a concave mirror?",
+            "Answer": "It decreases the focal length of the mirror."
+        },
+        {
+            "Question": "What happens to light rays striking the vertex of a concave mirror?",
+            "Answer": "They reflect back along the same path."
+        },
+        {
+            "Question": "What type of reflection is observed in a plane mirror?",
+            "Answer": "Specular reflection."
+        },
+        {
+            "Question": "Why do convex mirrors always form a diminished image?",
+            "Answer": "Because they diverge light rays, making the image appear smaller."
+        },
+        {
+            "Question": "What is the use of a concave mirror in solar concentrators?",
+            "Answer": "To focus sunlight to a point to generate heat or electricity."
+        },
+        {
+            "Question": "What is the purpose of the reflective coating on mirrors?",
+            "Answer": "To enhance the reflection of light."
+        },
+        {
+            "Question": "How does the image formed by a plane mirror differ from the actual object?",
+            "Answer": "The image is laterally inverted but of the same size and distance."
+        },
+        {
+            "Question": "What is the significance of the principal axis in mirror reflection?",
+            "Answer": "It helps in determining the focus and drawing ray diagrams."
+        },
+        {
+            "Question": "What happens to the angle of reflection if the angle of incidence is zero?",
+            "Answer": "The angle of reflection is also zero."
+        },
+        {
+            "Question": "What is the primary use of convex mirrors in public places?",
+            "Answer": "For security and surveillance purposes."
+        },
+        {
+            "Question": "What does the term 'real image' mean in the context of mirror reflection?",
+            "Answer": "An image that can be projected on a screen as it is formed by actual light convergence."
+        },
+        {
+            "Question": "Why are convex mirrors not used for focusing light?",
+            "Answer": "Because they diverge light rays instead of converging them."
+        },
+        {
+            "Question": "What is the primary application of plane mirrors in daily life?",
+            "Answer": "For personal grooming and checking appearances."
+        },
+        {
+            "Question": "What is the effect of a concave mirror on light rays coming from infinity?",
+            "Answer": "They converge at the focal point."
+        },
+        {
+            "Question": "What happens to the image in a concave mirror as the object is moved from infinity to the focus?",
+            "Answer": "The image moves from the focus to infinity, becoming larger."
+        },
+        {
+            "Question": "What is the nature of the image formed by a concave mirror when the object is placed at the focus?",
+            "Answer": "The image is formed at infinity and is highly magnified."
+        },
+        {
+            "Question": "What kind of image is produced by a convex mirror regardless of the object's position?",
+            "Answer": "A virtual, erect, and diminished image."
+        },
+        {
+            "Question": "What happens to light rays that are not parallel to the principal axis in a concave mirror?",
+            "Answer": "They converge to different points depending on their angle of incidence."
+        },
+        {
+            "Question": "How does a convex mirror affect the perceived size of an object?",
+            "Answer": "It makes the object appear smaller and further away."
+        },
+        {
+            "Question": "Why is a convex mirror used as a rearview mirror in vehicles?",
+            "Answer": "Because it allows the driver to see a wider area behind them."
+        },
+        {
+            "Question": "What is the relationship between the object distance and the image distance in a concave mirror when the object is placed at the focus?",
+            "Answer": "The image distance is infinity."
+        },
+        {
+            "Question": "What happens to the angle of reflection if the angle of incidence is increased?",
+            "Answer": "The angle of reflection increases equally."
+        },
+        {
+            "Question": "Why is the focal point of a concave mirror called the point of convergence?",
+            "Answer": "Because light rays parallel to the principal axis meet there after reflection."
+        },
+        {
+            "Question": "What is the effect of the curvature of a convex mirror on its focal length?",
+            "Answer": "A greater curvature results in a shorter focal length."
+        },
+        {
+            "Question": "What type of mirror is used in street lights to spread the light over a large area?",
+            "Answer": "A convex mirror."
+        },
+        {
+            "Question": "What is the effect of placing an object at the center of curvature of a concave mirror?",
+            "Answer": "The image formed is real, inverted, and of the same size."
+        },
+        {
+            "Question": "Why can't a convex mirror form a real image?",
+            "Answer": "Because it always causes light rays to diverge."
+        },
+        {
+            "Question": "What is the effect of a plane mirror on the direction of light rays?",
+            "Answer": "It reflects them back in the same medium without changing their path."
+        },
+        {
+            "Question": "What is the significance of the radius of curvature in determining the properties of a mirror?",
+            "Answer": "It helps in calculating the focal length and understanding the mirror's curvature."
+        },
+        {
+            "Question": "What is the definition of the term 'incident ray'?",
+            "Answer": "A ray of light that strikes a surface."
+        },
+        {
+            "Question": "How is the reflected ray different from the incident ray?",
+            "Answer": "The reflected ray is the ray that bounces off the reflecting surface after striking it."
+        },
+        {
+            "Question": "What is the optical center of a mirror?",
+            "Answer": "The point in the mirror through which light passes without deviation."
+        },
+        {
+            "Question": "What do you call the line joining the pole and the center of curvature of a mirror?",
+            "Answer": "The principal axis."
+        },
+        {
+            "Question": "What is the nature of the image formed by a plane mirror in terms of depth?",
+            "Answer": "The image appears to be the same distance behind the mirror as the object is in front of it."
+        },
+        {
+            "Question": "Why is the image formed by a plane mirror considered virtual?",
+            "Answer": "Because the image cannot be obtained on a screen."
+        },
+        {
+            "Question": "What happens to the size of the image when the object distance in a plane mirror is doubled?",
+            "Answer": "The size of the image remains the same."
+        },
+        {
+            "Question": "How does a plane mirror affect the orientation of the letters in the object?",
+            "Answer": "The letters appear reversed left to right (lateral inversion)."
+        },
+        {
+            "Question": "What kind of mirror is used in a periscope?",
+            "Answer": "Plane mirrors."
+        },
+        {
+            "Question": "What is the effect on the image when the object is moved closer to a convex mirror?",
+            "Answer": "The image remains virtual and diminished, but slightly larger."
+        },
+        {
+            "Question": "What is the effect of increasing the size of a plane mirror on the field of view?",
+            "Answer": "The field of view increases."
+        },
+        {
+            "Question": "What is the main characteristic of a real image?",
+            "Answer": "It can be projected onto a screen."
+        },
+        {
+            "Question": "What does the term 'virtual' mean in the context of an image?",
+            "Answer": "An image formed by the apparent divergence of rays that cannot be projected on a screen."
+        },
+        {
+            "Question": "In a concave mirror, where is the image formed when the object is at infinity?",
+            "Answer": "At the focal point."
+        },
+        {
+            "Question": "How does the position of an image change when an object is moved from the center of curvature to the focus in a concave mirror?",
+            "Answer": "The image moves from the center of curvature to infinity."
+        },
+        {
+            "Question": "What happens to the brightness of an image formed by a concave mirror as the object is moved closer to the focus?",
+            "Answer": "The brightness increases."
+        },
+        {
+            "Question": "What is the nature of the image formed by a concave mirror when the object is placed between the focus and the mirror?",
+            "Answer": "The image is virtual, erect, and magnified."
+        },
+        {
+            "Question": "What is the primary difference between a concave and a convex mirror?",
+            "Answer": "A concave mirror converges light rays, while a convex mirror diverges them."
+        },
+        {
+            "Question": "Why does a concave mirror form a larger image of an object placed close to it?",
+            "Answer": "Because the rays converge to form an enlarged image."
+        },
+        {
+            "Question": "What happens to the rays of light when they pass through the center of curvature of a concave mirror?",
+            "Answer": "They reflect back along the same path."
+        },
+        {
+            "Question": "What is the role of a concave mirror in a flashlight?",
+            "Answer": "To reflect and focus the light into a parallel beam."
+        },
+        {
+            "Question": "What is the principal use of a convex mirror in road safety?",
+            "Answer": "To provide a wider field of view at blind turns and intersections."
+        },
+        {
+            "Question": "What is the nature of the image formed by a concave mirror when the object is placed at the focal point?",
+            "Answer": "The image is formed at infinity and is highly enlarged."
+        },
+        {
+            "Question": "How does the image formed by a convex mirror change as the object distance increases?",
+            "Answer": "The image remains virtual and diminished, but becomes smaller and closer to the focal point."
+        },
+        {
+            "Question": "What is the primary use of plane mirrors in optical instruments?",
+            "Answer": "To redirect light without changing its convergence or divergence."
+        },
+        {
+            "Question": "How does a convex mirror affect parallel rays of light?",
+            "Answer": "It makes them appear to diverge from a point behind the mirror."
+        },
+        {
+            "Question": "What is the effect of a convex mirror on the field of view compared to a plane mirror?",
+            "Answer": "It increases the field of view."
+        },
+        {
+            "Question": "What is the relationship between object distance and image distance in a plane mirror?",
+            "Answer": "They are equal."
+        },
+        {
+            "Question": "What is the effect of a concave mirror on light rays that are parallel to its principal axis?",
+            "Answer": "It converges them to the focal point."
+        },
+        {
+            "Question": "What is the primary characteristic of an image formed by a convex mirror?",
+            "Answer": "It is always virtual, erect, and diminished."
+        },
+        {
+            "Question": "What is the difference in the images formed by concave and convex mirrors when the object is placed at infinity?",
+            "Answer": "A concave mirror forms a real, inverted, and diminished image at the focus, while a convex mirror forms a virtual, erect, and highly diminished image at the focus."
+        },
+        {
+            "Question": "What is the nature of the focal point in a convex mirror?",
+            "Answer": "The focal point is virtual and lies behind the mirror."
+        },
+        {
+            "Question": "How does a concave mirror form an image when the object is placed beyond the center of curvature?",
+            "Answer": "It forms a real, inverted, and diminished image between the focus and the center of curvature."
+        },
+        {
+            "Question": "What happens to light rays when they hit a smooth surface at an oblique angle?",
+            "Answer": "They reflect at the same angle as the angle of incidence."
+        },
+        {
+            "Question": "What is the effect of a convex mirror on the size of the image compared to the object?",
+            "Answer": "The image is always smaller than the object."
+        },
+        {
+            "Question": "Why do objects appear closer in a convex mirror than they actually are?",
+            "Answer": "Because the mirror diminishes the size of the image."
+        },
+        {
+            "Question": "What is the effect of a concave mirror on the image when the object is moved from the focus to the pole?",
+            "Answer": "The image becomes virtual, erect, and magnified."
+        },
+        {
+            "Question": "How does a convex mirror form an image when the object is at infinity?",
+            "Answer": "It forms a virtual, erect, and highly diminished image at the focus behind the mirror."
+        },
+        {
+            "Question": "What is the main advantage of using a convex mirror in surveillance?",
+            "Answer": "It provides a wide-angle view, allowing for better monitoring of a large area."
+        },
+        {
+            "Question": "What is the relationship between the focal length and the radius of curvature in a concave mirror?",
+            "Answer": "The focal length is half of the radius of curvature (f = R/2)."
+        },
+        {
+            "Question": "How does the nature of the surface affect the reflection of light?",
+            "Answer": "A smooth surface results in specular reflection, while a rough surface results in diffuse reflection."
+        },
+        {
+            "Question": "What is the image distance when an object is placed at the focus of a concave mirror?",
+            "Answer": "The image distance is infinity."
+        },
+        {
+            "Question": "Why does a concave mirror form an inverted image of an object placed at the center of curvature?",
+            "Answer": "Because the reflected rays converge to form an image on the same side as the object."
+        },
+        {
+            "Question": "What is the significance of the normal line in the laws of reflection?",
+            "Answer": "It is used to measure the angles of incidence and reflection."
+        },
+        {
+            "Question": "What happens to the angle of reflection if the surface of the mirror is tilted?",
+            "Answer": "The angle of reflection changes according to the tilt of the surface."
+        },
+        {
+            "Question": "What is the use of a concave mirror in a makeup mirror?",
+            "Answer": "To provide a magnified image for better visibility."
+        },
+        {
+            "Question": "What is the effect of moving an object closer to a convex mirror on the image distance?",
+            "Answer": "The image distance decreases, but the image remains virtual and diminished."
+        },
+        {
+            "Question": "What type of image is formed by a plane mirror when the object is real?",
+            "Answer": "A virtual, erect, and laterally inverted image."
+        },
+        {
+            "Question": "Why is a concave mirror preferred over a convex mirror for focusing light?",
+            "Answer": "Because it converges light rays to a point, making it effective for focusing."
+        },
+        {
+            "Question": "How does the angle of incidence compare to the angle of reflection in a plane mirror?",
+            "Answer": "They are always equal."
+        },
+        {
+            "Question": "What is the effect of the size of a plane mirror on the size of the image?",
+            "Answer": "The size of the image remains the same regardless of the size of the mirror."
+        },
+        {
+            "Question": "How does a convex mirror affect the orientation of the image?",
+            "Answer": "The image remains erect."
+        },
+        {
+            "Question": "What happens to the image in a concave mirror as the object moves from infinity to the center of curvature?",
+            "Answer": "The image moves from the focus to the center of curvature, becoming larger and inverted."
+        },
+        {
+            "Question": "What is the effect of a convex mirror on parallel light rays?",
+            "Answer": "They diverge, making the image appear smaller and further away."
+        },
+        {
+            "Question": "What is the purpose of using a concave mirror in a torch?",
+            "Answer": "To focus the light into a strong, parallel beam."
+        },
+        {
+            "Question": "What is the effect of a concave mirror on the field of view compared to a plane mirror?",
+            "Answer": "It narrows the field of view by converging the light rays."
+        },
+        {
+            "Question": "What is the main characteristic of the image formed by a convex mirror when the object is placed at the focus?",
+            "Answer": "The image is virtual, erect, and highly diminished."
+        },
+        {
+            "Question": "What happens to the size of the image formed by a concave mirror as the object distance decreases?",
+            "Answer": "The size of the image increases."
+        },
+        {
+            "Question": "What is the significance of the radius of curvature in determining the properties of a convex mirror?",
+            "Answer": "It helps calculate the focal length and understand the mirror's divergence effect."
+        },
+        {
+            "Question": "What is the nature of the image formed by a concave mirror when the object is placed at the vertex?",
+            "Answer": "The image is virtual, erect, and the same size as the object."
+        },
+        {
+            "Question": "What type of image is always formed by a convex mirror?",
+            "Answer": "A virtual, erect, and diminished image."
+        },
+        {
+            "Question": "What is the focal point of a convex mirror also known as?",
+            "Answer": "The virtual focus."
+        },
+        {
+            "Question": "What is the image nature in a concave mirror when the object is placed at the center of curvature?",
+            "Answer": "Real, inverted, and same size."
+        },
+        {
+            "Question": "How does a concave mirror form an image when the object is between the focal point and the mirror?",
+            "Answer": "The image is virtual, erect, and magnified."
+        },
+        {
+            "Question": "What is the role of the vertex in a concave mirror?",
+            "Answer": "It is the point where the principal axis meets the mirror surface."
+        },
+        {
+            "Question": "What happens to the reflected rays when parallel light rays strike a convex mirror?",
+            "Answer": "They appear to diverge from the focal point behind the mirror."
+        },
+        {
+            "Question": "What is the mirror equation used to relate object distance, image distance, and focal length?",
+            "Answer": "1/f = 1/u + 1/v"
+        },
+        {
+            "Question": "What is the sign of the focal length of a convex mirror?",
+            "Answer": "Positive."
+        },
+        {
+            "Question": "What is the sign of the focal length of a concave mirror?",
+            "Answer": "Negative."
+        },
+        {
+            "Question": "What is the effect of moving the object further away from a concave mirror beyond the center of curvature?",
+            "Answer": "The image size decreases and remains inverted."
+        },
+        {
+            "Question": "What is lateral inversion in a plane mirror?",
+            "Answer": "The phenomenon where the left side of the object appears as the right side in the image."
+        },
+        {
+            "Question": "Why do concave mirrors produce magnified images when the object is close?",
+            "Answer": "Because they converge light rays, enlarging the image."
+        },
+        {
+            "Question": "What is the effect of a concave mirror on light rays that are not parallel to the principal axis?",
+            "Answer": "They focus at different points, causing spherical aberration."
+        },
+        {
+            "Question": "What kind of mirror would you use to obtain a wide field of view for security purposes?",
+            "Answer": "A convex mirror."
+        },
+        {
+            "Question": "What is the purpose of the coating on the back of a plane mirror?",
+            "Answer": "To reflect light and form a clear image."
+        },
+        {
+            "Question": "How does the distance of the object from a convex mirror affect the size of the image?",
+            "Answer": "The closer the object, the larger the image, but still diminished."
+        },
+        {
+            "Question": "What type of mirror is used in shaving mirrors and why?",
+            "Answer": "Concave mirrors, to provide a magnified image."
+        },
+        {
+            "Question": "What happens to the image formed by a plane mirror when the mirror is tilted?",
+            "Answer": "The image remains the same size and shape but shifts position."
+        },
+        {
+            "Question": "What is the effect of placing an object at the focal point of a concave mirror?",
+            "Answer": "The reflected rays become parallel, and the image is formed at infinity."
+        },
+        {
+            "Question": "How does a concave mirror form an image when the object is at the center of curvature?",
+            "Answer": "The image is real, inverted, and the same size as the object."
+        },
+        {
+            "Question": "What is the nature of the image formed by a convex mirror regardless of the object distance?",
+            "Answer": "Virtual, erect, and diminished."
+        },
+        {
+            "Question": "What is the primary application of a convex mirror in vehicles?",
+            "Answer": "To provide a wider field of view for rearview purposes."
+        },
+        {
+            "Question": "Why do plane mirrors always produce images of the same size as the object?",
+            "Answer": "Because they reflect light at equal angles without converging or diverging rays."
+        },
+        {
+            "Question": "What happens to the size of the image in a convex mirror as the object approaches the mirror?",
+            "Answer": "The image size increases slightly but remains smaller than the object."
+        },
+        {
+            "Question": "What is the use of concave mirrors in solar furnaces?",
+            "Answer": "To concentrate sunlight to a single point to produce heat."
+        },
+        {
+            "Question": "What is the purpose of using a convex mirror at a supermarket?",
+            "Answer": "For surveillance to monitor a wide area."
+        },
+        {
+            "Question": "What is the effect on the image when an object is placed at twice the focal length of a concave mirror?",
+            "Answer": "The image is real, inverted, and the same size as the object."
+        },
+        {
+            "Question": "What happens to the angle of reflection if the angle of incidence is increased from 30 degrees to 45 degrees?",
+            "Answer": "The angle of reflection also increases to 45 degrees."
+        },
+        {
+            "Question": "What is the relationship between the curvature of a mirror and its focal length?",
+            "Answer": "The more curved the mirror, the shorter the focal length."
+        },
+        {
+            "Question": "What is the term used for the point where the incident ray meets the reflecting surface?",
+            "Answer": "The point of incidence."
+        },
+        {
+            "Question": "What is the effect of a plane mirror on the path of a light ray incident at 60 degrees?",
+            "Answer": "The light ray reflects at 60 degrees to the normal."
+        },
+        {
+            "Question": "What happens to the size of the image in a concave mirror as the object distance decreases from the center of curvature to the focal point?",
+            "Answer": "The image size increases."
+        },
+        {
+            "Question": "What is the effect on the field of view when using a convex mirror compared to a plane mirror?",
+            "Answer": "The field of view is wider with a convex mirror."
+        },
+        {
+            "Question": "What is the nature of the image when the object is placed between the center of curvature and the focal point of a concave mirror?",
+            "Answer": "The image is real, inverted, and magnified."
+        },
+        {
+            "Question": "What is the relationship between the radius of curvature and the focal length of a mirror?",
+            "Answer": "The focal length is half the radius of curvature."
+        },
+        {
+            "Question": "What happens to the reflected rays in a plane mirror if the incident rays are parallel?",
+            "Answer": "The reflected rays remain parallel."
+        },
+        {
+            "Question": "What type of image does a concave mirror form when the object is at infinity?",
+            "Answer": "A real, inverted, and highly diminished image at the focus."
+        },
+        {
+            "Question": "Why do convex mirrors always produce virtual images?",
+            "Answer": "Because they diverge light rays."
+        },
+        {
+            "Question": "What is the image position in a concave mirror when the object is placed at the focal point?",
+            "Answer": "The image is formed at infinity."
+        },
+        {
+            "Question": "What happens to the angle of incidence if the angle of reflection is decreased?",
+            "Answer": "The angle of incidence decreases by the same amount."
+        },
+        {
+            "Question": "What is the effect of a convex mirror on the perceived distance of an object?",
+            "Answer": "The object appears closer and smaller than it actually is."
+        },
+        {
+            "Question": "What is the primary use of plane mirrors in a laser system?",
+            "Answer": "To redirect the laser beam without altering its path."
+        },
+        {
+            "Question": "What is the result of increasing the distance between the object and a concave mirror?",
+            "Answer": "The image size decreases and moves closer to the mirror."
+        },
+        {
+            "Question": "What happens to the brightness of an image in a convex mirror as the object moves closer?",
+            "Answer": "The image remains the same brightness."
+        },
+        {
+            "Question": "What is the significance of the principal axis in a concave mirror?",
+            "Answer": "It is the line that passes through the pole and the center of curvature."
+        },
+        {
+            "Question": "Why do convex mirrors provide a smaller image compared to the object?",
+            "Answer": "Because they cause light rays to spread out."
+        },
+        {
+            "Question": "What is the effect of a concave mirror on an object's image when the object is placed very close to the mirror?",
+            "Answer": "The image becomes virtual, erect, and magnified."
+        },
+        {
+            "Question": "What is the purpose of the silver coating on the back of a plane mirror?",
+            "Answer": "To reflect light and create a clear image."
+        },
+        {
+            "Question": "How does a concave mirror form an image when the object is placed between the pole and the focal point?",
+            "Answer": "The image is virtual, erect, and enlarged."
+        },
+        {
+            "Question": "What is the effect of moving the object from the center of curvature to the focal point in a concave mirror?",
+            "Answer": "The image size increases, and it becomes more magnified."
+        },
+        {
+            "Question": "What is the purpose of a concave mirror in a reflecting telescope?",
+            "Answer": "To gather and focus light from distant objects."
+        },
+        {
+            "Question": "How does the curvature of a mirror affect its focal length?",
+            "Answer": "Greater curvature results in a shorter focal length."
+        },
+        {
+            "Question": "What happens to the image formed by a plane mirror if the mirror is rotated?",
+            "Answer": "The image rotates by the same angle as the mirror."
+        },
+        {
+            "Question": "What is the term for the angle between the incident ray and the normal?",
+            "Answer": "Angle of incidence."
+        },
+        {
+            "Question": "What is the term for the angle between the reflected ray and the normal?",
+            "Answer": "Angle of reflection."
+        },
+        {
+            "Question": "What is the relationship between the object distance and the image distance in a convex mirror?",
+            "Answer": "The image distance is always less than the object distance."
+        },
+        {
+            "Question": "What happens to the path of light when it strikes a rough surface?",
+            "Answer": "It scatters in different directions, causing diffuse reflection."
+        },
+        {
+            "Question": "What type of mirror is used in a kaleidoscope and why?",
+            "Answer": "Plane mirrors, to create multiple reflections."
+        },
+        {
+            "Question": "Why are convex mirrors used in hallways and corridors?",
+            "Answer": "To provide a wide-angle view for better visibility."
+        },
+        {
+            "Question": "What is the nature of the image formed by a concave mirror when the object is placed between the focus and the center of curvature?",
+            "Answer": "Real, inverted, and magnified."
+        },
+        {
+            "Question": "What is the significance of the normal line in the reflection of light?",
+            "Answer": "It is the reference line for measuring angles of incidence and reflection."
+        },
+        {
+            "Question": "What happens to light rays that are incident parallel to the principal axis of a convex mirror?",
+            "Answer": "They diverge as if coming from the focal point behind the mirror."
+        },
+        {
+            "Question": "What is the purpose of the anti-reflective coating on some mirrors?",
+            "Answer": "To reduce glare and increase the clarity of the reflected image."
+        },
+        {
+            "Question": "What is the nature of the image formed by a plane mirror regardless of the object's position?",
+            "Answer": "Virtual, erect, and laterally inverted."
+        },
+        {
+            "Question": "What is the effect of a concave mirror on the image when the object is placed exactly at the focal point?",
+            "Answer": "The reflected rays are parallel, and the image is formed at infinity."
+        },
+        {
+            "Question": "How does a convex mirror affect the size of objects at varying distances?",
+            "Answer": "Objects appear smaller and closer as they move away from the mirror."
+        },
+        {
+            "Question": "What is the term for the point where light rays converge after reflecting from a concave mirror?",
+            "Answer": "The focal point."
+        },
+        {
+            "Question": "Why are concave mirrors used in car headlights?",
+            "Answer": "To focus the light into a parallel beam for better visibility."
+        },
+        {
+            "Question": "What is the effect on the image in a convex mirror when the object distance increases?",
+            "Answer": "The image remains virtual, erect, and becomes smaller."
+        },
+        {
+            "Question": "What is the role of a plane mirror in a periscope?",
+            "Answer": "To reflect light and allow viewing from different angles."
+        },
+        {
+            "Question": "What is the main characteristic of an image formed by a plane mirror?",
+            "Answer": "The image is the same size as the object."
+        },
+        {
+            "Question": "What happens to the reflected light rays when they hit a concave mirror at an angle to the principal axis?",
+            "Answer": "They converge at a point off the principal axis."
+        },
+        {
+            "Question": "How does the angle of incidence compare to the angle of reflection in a convex mirror?",
+            "Answer": "They are always equal."
+        },
+        {
+            "Question": "What is the effect of the size of a plane mirror on the size of the image?",
+            "Answer": "The size of the image remains the same regardless of the size of the mirror."
+        },
+        {
+            "Question": "How does a convex mirror affect the orientation of the image?",
+            "Answer": "The image remains erect."
+        },
+        {
+            "Question": "What is the nature of the image when an object is placed at twice the focal length in a concave mirror?",
+            "Answer": "Real, inverted, and the same size as the object."
+        },
+        {
+            "Question": "What happens to the brightness of an image in a concave mirror as the object distance decreases?",
+            "Answer": "The brightness increases."
+        },
+        {
+            "Question": "What is the term for the center of the reflecting surface of a concave mirror?",
+            "Answer": "The pole."
+        },
+        {
+            "Question": "Why do dentists use concave mirrors?",
+            "Answer": "To magnify the view of teeth for better examination."
+        },
+        {
+            "Question": "What is the significance of the principal axis in a convex mirror?",
+            "Answer": "It is the line that passes through the pole and the center of curvature."
+        },
+        {
+            "Question": "What type of image does a concave mirror form when the object is placed at infinity?",
+            "Answer": "Real, inverted, and highly diminished at the focal point."
+        },
+        {
+            "Question": "Why do convex mirrors always produce smaller images?",
+            "Answer": "Because they cause light rays to diverge."
+        },
+        {
+            "Question": "What is the effect of a plane mirror on parallel light rays incident on it?",
+            "Answer": "The reflected rays remain parallel."
+        },
+        {
+            "Question": "What happens to the size of the image in a concave mirror as the object moves closer to the focal point from infinity?",
+            "Answer": "The image size increases and remains inverted."
+        },
+        {
+            "Question": "What is the effect of a convex mirror on the perception of distance?",
+            "Answer": "It makes objects appear further away than they actually are."
+        },
+        {
+            "Question": "Why are plane mirrors used in optical instruments?",
+            "Answer": "To change the direction of light without altering its convergence or divergence."
+        },
+        {
+            "Question": "What is the relationship between the object distance and image distance in a plane mirror?",
+            "Answer": "They are equal."
+        },
+        {
+            "Question": "What happens to the image in a concave mirror as the object moves from the focal point to the pole?",
+            "Answer": "The image becomes virtual, erect, and magnified."
+        },
+        {
+            "Question": "What is the effect of a convex mirror on light rays that are not parallel to the principal axis?",
+            "Answer": "They diverge, making the image appear smaller."
+        },
+        {
+            "Question": "What is the primary use of plane mirrors in everyday life?",
+            "Answer": "For personal grooming and decoration."
+        },
+        {
+            "Question": "What happens to the angle of reflection if the surface of the mirror is curved?",
+            "Answer": "The angle of reflection varies depending on the curvature."
+        },
+        {
+            "Question": "What is the term for the imaginary line passing through the center of curvature and the pole of a mirror?",
+            "Answer": "The principal axis."
+        },
+        {
+            "Question": "What is the effect of a concave mirror on an object placed at a distance greater than twice the focal length?",
+            "Answer": "The image is real, inverted, and diminished."
+        },
+        {
+            "Question": "What happens to the field of view when using a convex mirror compared to a concave mirror?",
+            "Answer": "The field of view is larger with a convex mirror."
+        },
+        {
+            "Question": "What is the nature of the image when an object is placed very close to a convex mirror?",
+            "Answer": "Virtual, erect, and slightly enlarged."
+        },
+        {
+            "Question": "Why are convex mirrors preferred for passenger-side mirrors in vehicles?",
+            "Answer": "They provide a wider field of view."
+        },
+        {
+            "Question": "What happens to the angle of reflection if the angle of incidence is zero?",
+            "Answer": "The angle of reflection is also zero."
+        },
+        {
+            "Question": "What is the effect of a concave mirror on an image when the object is placed beyond the center of curvature?",
+            "Answer": "The image is real, inverted, and smaller than the object."
+        },
+        {
+            "Question": "How does a convex mirror form an image when the object is at the focal point?",
+            "Answer": "The image is virtual, erect, and highly diminished."
+        },
+        {
+            "Question": "What is the purpose of using a concave mirror in a solar cooker?",
+            "Answer": "To concentrate sunlight to a single point for heating."
+        },
+        {
+            "Question": "What is the term for the point where all parallel rays converge after reflecting from a concave mirror?",
+            "Answer": "The focal point."
+        },
+        {
+            "Question": "Why do convex mirrors always produce diminished images regardless of the object distance?",
+            "Answer": "Because they cause light rays to diverge, reducing the size of the image."
+        },
+        {
+            "Question": "What is the nature of the image formed by a convex mirror when the object is placed very far away?",
+            "Answer": "Virtual, erect, and highly diminished."
+        },
+        {
+            "Question": "What happens to the image size in a concave mirror when the object moves from the center of curvature to infinity?",
+            "Answer": "The image size decreases and becomes highly diminished."
+        },
+        {
+            "Question": "What is the role of the center of curvature in the formation of images by spherical mirrors?",
+            "Answer": "It is the center of the sphere from which the mirror segment is taken, and it helps determine the focal length."
+        },
+        {
+            "Question": "How does the distance of an object from a plane mirror affect the image distance?",
+            "Answer": "The image distance from the mirror is equal to the object distance."
+        },
+        {
+            "Question": "What is the effect of a plane mirror on the orientation of an object’s image?",
+            "Answer": "The image is laterally inverted."
+        },
+        {
+            "Question": "Why are concave mirrors used in makeup mirrors?",
+            "Answer": "To provide a magnified and clearer view of the face."
+        },
+        {
+            "Question": "What happens to the angle of incidence if the angle of reflection is 90 degrees?",
+            "Answer": "The angle of incidence is also 90 degrees, which means the incident ray is parallel to the surface."
+        },
+        {
+            "Question": "What is the main characteristic of images formed by convex mirrors?",
+            "Answer": "They are always virtual, erect, and diminished regardless of the object’s position."
+        },
+        {
+            "Question": "Why do concave mirrors sometimes produce distorted images at the edges?",
+            "Answer": "Due to spherical aberration."
+        },
+        {
+            "Question": "What type of mirror is used in overhead projectors and why?",
+            "Answer": "Concave mirrors, to focus and direct light onto a screen."
+        },
+        {
+            "Question": "How does the position of the object affect the image in a concave mirror when it is at the center of curvature?",
+            "Answer": "The image is real, inverted, and the same size as the object."
+        },
+        {
+            "Question": "What is the relationship between the object distance and image distance in a convex mirror as the object moves closer?",
+            "Answer": "The image distance remains less than the object distance, and the image size increases slightly."
+        },
+        {
+            "Question": "What is the effect on the image in a convex mirror when the object distance decreases?",
+            "Answer": "The image size increases but remains smaller than the object."
+        },
+        {
+            "Question": "Why are plane mirrors used in optical instruments like microscopes and telescopes?",
+            "Answer": "To reflect light without altering its path, aiding in precise viewing."
+        },
+        {
+            "Question": "What is the effect on the image in a concave mirror when the object is placed between the focal point and the pole?",
+            "Answer": "The image is virtual, erect, and magnified."
+        },
+        {
+            "Question": "How does a convex mirror form images compared to a plane mirror?",
+            "Answer": "Convex mirrors form images that are diminished and provide a wider field of view."
+        },
+        {
+            "Question": "What happens to the reflected rays when parallel rays strike a concave mirror at an angle to the principal axis?",
+            "Answer": "They converge to a point on the focal plane, off the principal axis."
+        },
+        {
+            "Question": "Why do convex mirrors always produce virtual images?",
+            "Answer": "Because they cause light rays to diverge as if they are coming from a focal point behind the mirror."
+        },
+        {
+            "Question": "What is the purpose of using a concave mirror in a flashlight?",
+            "Answer": "To reflect and focus light into a concentrated beam."
+        },
+        {
+            "Question": "What is the nature of the image when the object is placed at the focal point of a convex mirror?",
+            "Answer": "The image is virtual, erect, and diminished."
+        },
+        {
+            "Question": "How does the distance of an object from a concave mirror affect the nature of the image?",
+            "Answer": "If the object is closer than the focal point, the image is virtual and magnified; otherwise, it is real and inverted."
+        },
+        {
+            "Question": "Why are concave mirrors used in telescopes?",
+            "Answer": "To collect and focus light, allowing for a clearer view of distant objects."
+        },
+        {
+            "Question": "What happens to the size and nature of the image in a convex mirror when the object distance is very large?",
+            "Answer": "The image remains virtual, erect, and diminutive, regardless of the object's distance."
+        },
+        {
+            "Question": "Why do concave mirrors form larger images as the object moves closer to the mirror?",
+            "Answer": "Because the rays converge more strongly, making the image appear larger and magnified."
+        },
+        {
+            "Question": "What is the key difference in the image formation between a convex and a concave mirror?",
+            "Answer": "Concave mirrors can form both real and virtual images, while convex mirrors always form virtual images."
+        },
+        {
+            "Question": "How does the curvature of a mirror affect the size of the image?",
+            "Answer": "The greater the curvature, the more the mirror can converge or diverge light, affecting the image size accordingly."
+        },
+        {
+            "Question": "What is the role of a mirror's focal length in image formation?",
+            "Answer": "The focal length determines the distance at which parallel rays converge or appear to diverge, influencing the image size and nature."
+        },
+        {
+            "Question": "Why is it advantageous to use a concave mirror in a shaving mirror?",
+            "Answer": "To provide a magnified and closer view of the face."
+        },
+        {
+            "Question": "What happens to the image in a plane mirror if the object is moved closer to the mirror?",
+            "Answer": "The image moves closer to the mirror at the same rate as the object."
+        },
+        {
+            "Question": "What effect does a convex mirror have on parallel rays of light?",
+            "Answer": "It causes the rays to diverge, making the image appear smaller and providing a wider field of view."
+        },
+        {
+            "Question": "Why are concave mirrors used in satellite dishes?",
+            "Answer": "To focus signals onto a receiver for better signal detection."
+        },
+        {
+            "Question": "What is the nature of the image formed by a concave mirror when the object is placed at the focal point?",
+            "Answer": "The image is formed at infinity and is highly magnified."
+        },
+        {
+            "Question": "How does the size of the image in a convex mirror compare to the object?",
+            "Answer": "The image is always smaller than the object."
+        },
+        {
+            "Question": "What is the effect on the image size when the object is placed closer to a plane mirror?",
+            "Answer": "The image size remains the same as the object size."
+        },
+        {
+            "Question": "Why are convex mirrors used as rearview mirrors in vehicles?",
+            "Answer": "To provide a wider field of view for safer driving."
+        },
+        {
+            "Question": "What is the effect on the image size when the object is placed at the focus of a concave mirror?",
+            "Answer": "The image is formed at infinity and is highly magnified."
+        },
+        {
+            "Question": "What type of image does a convex mirror always form regardless of the object’s position?",
+            "Answer": "Virtual, erect, and diminished."
+        },
+        {
+            "Question": "What happens to the image in a concave mirror when the object is moved further from the focal point?",
+            "Answer": "The image becomes smaller and moves closer to the focal point."
+        },
+        {
+            "Question": "Why are concave mirrors often used in optical instruments?",
+            "Answer": "To focus light and create clear, magnified images."
+        },
+        {
+            "Question": "What is the main purpose of using a plane mirror in a periscope?",
+            "Answer": "To redirect light to allow viewing over obstacles."
+        },
+        {
+            "Question": "How does the focal length of a concave mirror affect the image formation when the object is at varying distances?",
+            "Answer": "A shorter focal length results in a more convergent mirror, producing larger and closer images at various object distances."
+        },
+        {
+            "Question": "What happens to the nature of the image in a convex mirror if the object is moved very close to it?",
+            "Answer": "The image remains virtual, erect, and diminished, regardless of the object's distance."
+        },
+        {
+            "Question": "Why are concave mirrors used in searchlights?",
+            "Answer": "To focus and direct light into a concentrated beam for greater illumination."
+        },
+        {
+            "Question": "What effect does the curvature of a concave mirror have on the distance of the image from the mirror?",
+            "Answer": "A greater curvature (shorter focal length) results in images being formed closer to the mirror for a given object distance."
+        },
+        {
+            "Question": "What is the primary advantage of using a convex mirror in surveillance systems?",
+            "Answer": "It provides a wider field of view, allowing for better monitoring."
+        },
+        {
+            "Question": "What is the effect of an object's position on the image size in a concave mirror when the object is between the focal point and the mirror?",
+            "Answer": "The image size increases and appears magnified."
+        },
+        {
+            "Question": "Why do concave mirrors form real images when the object is beyond the focal point?",
+            "Answer": "Because the rays converge to form a real image on the opposite side of the mirror."
+        },
+        {
+            "Question": "What type of image does a concave mirror form when the object is at the focal point?",
+            "Answer": "The image is formed at infinity and is highly magnified."
+        },
+        {
+            "Question": "What happens to the nature of the image when an object is placed at a distance less than the focal length of a concave mirror?",
+            "Answer": "The image is virtual, erect, and magnified."
+        },
+        {
+            "Question": "What is the effect on the size of the image in a convex mirror as the object distance decreases?",
+            "Answer": "The image size increases but remains smaller compared to the object."
+        },
+        {
+            "Question": "Why are concave mirrors used in dental instruments?",
+            "Answer": "To magnify and provide a clearer view of teeth and gums."
+        },
+        {
+            "Question": "What is the effect of a concave mirror on light rays that are parallel to the principal axis?",
+            "Answer": "They converge at the focal point after reflection."
+        },
+        {
+            "Question": "What is the primary advantage of using a convex mirror in security applications?",
+            "Answer": "It provides a wider field of view, enhancing surveillance."
+        },
+        {
+            "Question": "What is the nature of the image formed by a concave mirror when the object is placed between the focal point and the pole?",
+            "Answer": "Virtual, erect, and magnified."
+        },
+        {
+            "Question": "What happens to the reflected image when light rays strike a plane mirror at an angle?",
+            "Answer": "The reflected image maintains the angle of incidence equal to the angle of reflection."
+        },
+        {
+            "Question": "What is the relationship between the object distance and image distance in a plane mirror?",
+            "Answer": "The object distance is equal to the image distance."
+        },
+        {
+            "Question": "What is the primary use of plane mirrors in everyday life?",
+            "Answer": "For personal grooming and decoration."
+        },
+        {
+            "Question": "What happens to the size and nature of the image in a convex mirror when the object distance is very large?",
+            "Answer": "The image remains virtual, erect, and diminished regardless of the object's distance."
+        },
+        {
+            "Question": "What happens to the field of view when using a convex mirror compared to a concave mirror?",
+            "Answer": "The field of view is larger with a convex mirror."
+        },
+
+        {
+            "Question": "Why does a plane mirror form a virtual image?",
+            "Answer": "A plane mirror forms a virtual image because the reflected rays appear to diverge from a point behind the mirror."
+        },
+        {
+            "Question": "Why is the image formed by a plane mirror laterally inverted?",
+            "Answer": "The image formed by a plane mirror is laterally inverted because the left and right sides of the object are reversed."
+        },
+        {
+            "Question": "Why does the image in a plane mirror appear to be the same distance behind the mirror as the object is in front of it?",
+            "Answer": "The image in a plane mirror appears to be the same distance behind the mirror as the object is in front of it due to the law of reflection, where the angle of incidence equals the angle of reflection."
+        },
+        {
+            "Question": "Why can't a plane mirror form a real image?",
+            "Answer": "A plane mirror cannot form a real image because the reflected rays do not actually converge; they only appear to diverge from a point behind the mirror."
+        },
+        {
+            "Question": "Why do we use convex mirrors as rearview mirrors in vehicles?",
+            "Answer": "Convex mirrors are used as rearview mirrors in vehicles because they provide a wider field of view, allowing drivers to see more of the road behind them."
+        },
+        {
+            "Question": "Why do concave mirrors converge light rays?",
+            "Answer": "Concave mirrors converge light rays because their reflecting surface curves inward, causing parallel incoming rays to meet at a focal point."
+        },
+        {
+            "Question": "Why does a concave mirror form a magnified image when the object is placed between the mirror and the focal point?",
+            "Answer": "A concave mirror forms a magnified image when the object is placed between the mirror and the focal point because the reflected rays diverge and appear to come from a larger, upright image behind the mirror."
+        },
+        {
+            "Question": "Why is the focal length of a convex mirror considered positive?",
+            "Answer": "The focal length of a convex mirror is considered positive because the focus is located behind the mirror, where the reflected rays appear to diverge from."
+        },
+        {
+            "Question": "Why is the focal length of a concave mirror considered negative?",
+            "Answer": "The focal length of a concave mirror is considered negative because the focus is located in front of the mirror, where the reflected rays actually converge."
+        },
+        {
+            "Question": "Why is a convex mirror also called a diverging mirror?",
+            "Answer": "A convex mirror is called a diverging mirror because it causes parallel incoming rays to spread out (diverge) after reflection."
+        },
+        {
+            "Question": "Why is a concave mirror also called a converging mirror?",
+            "Answer": "A concave mirror is called a converging mirror because it causes parallel incoming rays to converge at a point after reflection."
+        },
+        {
+            "Question": "Why do dentists use concave mirrors?",
+            "Answer": "Dentists use concave mirrors because they form magnified images of teeth, allowing for better visibility of small details."
+        },
+        {
+            "Question": "Why are convex mirrors used in supermarkets?",
+            "Answer": "Convex mirrors are used in supermarkets for surveillance because they provide a wider field of view, helping to monitor larger areas."
+        },
+        {
+            "Question": "Why does the image in a convex mirror appear smaller than the object?",
+            "Answer": "The image in a convex mirror appears smaller than the object because the reflected rays diverge, making the image appear diminished."
+        },
+        {
+            "Question": "Why do concave mirrors form real images when the object is placed beyond the focal point?",
+            "Answer": "Concave mirrors form real images when the object is placed beyond the focal point because the reflected rays actually converge at a point in front of the mirror."
+        },
+        {
+            "Question": "Why does a plane mirror reflect light without changing its color?",
+            "Answer": "A plane mirror reflects light without changing its color because it reflects all wavelengths of light equally without absorption or scattering."
+        },
+        {
+            "Question": "Why does a concave mirror invert the image when the object is placed beyond the focal point?",
+            "Answer": "A concave mirror inverts the image when the object is placed beyond the focal point because the reflected rays converge on the opposite side of the principal axis."
+        },
+        {
+            "Question": "Why do convex mirrors always form virtual images?",
+            "Answer": "Convex mirrors always form virtual images because the reflected rays diverge and never actually converge to form a real image."
+        },
+        {
+            "Question": "Why is the mirror formula applicable to all types of mirrors?",
+            "Answer": "The mirror formula is applicable to all types of mirrors because it is derived from the basic principles of reflection and geometry that apply universally."
+        },
+        {
+            "Question": "Why do spherical mirrors have spherical aberration?",
+            "Answer": "Spherical mirrors have spherical aberration because rays parallel to the principal axis do not all converge at the same focal point, causing a blurred image."
+        },
+        {
+            "Question": "Why is the center of curvature twice the focal length for spherical mirrors?",
+            "Answer": "The center of curvature is twice the focal length for spherical mirrors because it is the center of the sphere from which the mirror segment is taken, and the focal point is halfway between the mirror and this center."
+        },
+        {
+            "Question": "Why does a convex mirror have a focal point behind the mirror?",
+            "Answer": "A convex mirror has a focal point behind the mirror because the reflected rays diverge and appear to come from a point behind the mirror."
+        },
+        {
+            "Question": "Why are concave mirrors used in headlights of vehicles?",
+            "Answer": "Concave mirrors are used in headlights of vehicles because they converge light into a parallel beam, providing a focused and intense light source."
+        },
+        {
+            "Question": "Why does a concave mirror form an enlarged image when the object is close to the mirror?",
+            "Answer": "A concave mirror forms an enlarged image when the object is close to the mirror because the reflected rays diverge and appear to come from a larger image behind the mirror."
+        },
+        {
+            "Question": "Why is the image formed by a convex mirror always erect?",
+            "Answer": "The image formed by a convex mirror is always erect because the reflected rays diverge, making the image appear upright regardless of the object's position."
+        },
+        {
+            "Question": "Why is the radius of curvature double the focal length?",
+            "Answer": "The radius of curvature is double the focal length because the center of curvature is twice as far from the mirror as the focal point."
+        },
+        {
+            "Question": "Why do concave mirrors form real images when the object is placed beyond the focal point?",
+            "Answer": "Concave mirrors form real images when the object is placed beyond the focal point because the reflected rays actually converge at a point in front of the mirror."
+        },
+        {
+            "Question": "Why do concave mirrors form virtual images when the object is placed between the focal point and the mirror?",
+            "Answer": "Concave mirrors form virtual images when the object is placed between the focal point and the mirror because the reflected rays diverge, and the image appears to be behind the mirror."
+        },
+        {
+            "Question": "Why do concave mirrors form inverted images when the object is beyond the focal point?",
+            "Answer": "Concave mirrors form inverted images when the object is beyond the focal point because the reflected rays converge below the principal axis."
+        },
+        {
+            "Question": "Why are convex mirrors used for security purposes?",
+            "Answer": "Convex mirrors are used for security purposes because they provide a wider field of view, helping to monitor larger areas."
+        },
+        {
+            "Question": "Why does a convex mirror form a smaller image than the object?",
+            "Answer": "A convex mirror forms a smaller image than the object because the reflected rays diverge, making the image appear diminished."
+        },
+        {
+            "Question": "Why does a concave mirror magnify the image when the object is placed close to it?",
+            "Answer": "A concave mirror magnifies the image when the object is placed close to it because the reflected rays diverge, making the image appear larger."
+        },
+        {
+            "Question": "Why is the image in a plane mirror always the same size as the object?",
+            "Answer": "The image in a plane mirror is always the same size as the object because the angles of incidence and reflection are equal, preserving the proportions of the object."
+        },
+        {
+            "Question": "Why does the image in a plane mirror appear to be the same distance behind the mirror as the object is in front of it?",
+            "Answer": "The image in a plane mirror appears to be the same distance behind the mirror as the object is in front of it due to the law of reflection, where the angle of incidence equals the angle of reflection."
+        },
+        {
+            "Question": "Why is a concave mirror used as a shaving mirror?",
+            "Answer": "A concave mirror is used as a shaving mirror because it forms a magnified, upright image of the face when the object is placed close to the mirror."
+        },
+        {
+            "Question": "A plane mirror is 2 meters tall. What is the minimum height a person needs to see their entire reflection if they stand 1 meter away from the mirror?",
+            "Answer": "1 meter"
+        },
+        {
+            "Question": "An object is placed 10 cm in front of a concave mirror with a focal length of 5 cm. Where is the image formed?",
+            "Answer": "At 10 cm in front of the mirror"
+        },
+        {
+            "Question": "Why do we use plane mirrors for personal grooming?",
+            "Answer": "Plane mirrors form upright and same-sized images, making them ideal for personal grooming."
+        },
+        {
+            "Question": "Why is a concave mirror used as a shaving mirror?",
+            "Answer": "A concave mirror can form a magnified image of the face when the face is within the focal length of the mirror, making it easier to see details while shaving."
+        },
+        {
+            "Question": "Why do dentists use concave mirrors to examine teeth?",
+            "Answer": "Dentists use concave mirrors because they can provide a magnified image of the teeth, which helps in examining small details and cavities."
+        },
+        {
+            "Question": "Why does a convex mirror provide a wider field of view?",
+            "Answer": "A convex mirror diverges light rays, making the image smaller but covering a wider field of view, which is useful for surveillance and rearview mirrors in vehicles."
+        },
+        {
+            "Question": "Why do objects appear closer in a convex rearview mirror than they actually are?",
+            "Answer": "Convex mirrors form diminished images, causing objects to appear smaller and, therefore, seem farther away than they actually are."
+        },
+        {
+            "Question": "Why are concave mirrors used in solar cookers?",
+            "Answer": "Concave mirrors converge sunlight to a focal point, increasing the intensity of heat at that point, which can be used for cooking."
+        },
+        {
+            "Question": "Why do convex mirrors make vehicles appear smaller in a rearview mirror?",
+            "Answer": "Convex mirrors form diminished images, which makes the vehicles appear smaller than they actually are."
+        },
+        {
+            "Question": "Why does a concave mirror form an inverted image when the object is placed beyond the focal length?",
+            "Answer": "When an object is placed beyond the focal length of a concave mirror, the reflected rays converge to form an inverted real image."
+        },
+        {
+            "Question": "Why are plane mirrors preferred for use in periscopes?",
+            "Answer": "Plane mirrors are preferred in periscopes because they can reflect light at right angles without changing the size of the image, allowing for accurate viewing."
+        },
+        {
+            "Question": "Why are concave mirrors used in reflecting telescopes?",
+            "Answer": "Concave mirrors can gather and focus light from distant objects, forming clear, magnified images, which is essential for astronomical observations."
+        },
+        {
+            "Question": "Why does a convex mirror always form a virtual image?",
+            "Answer": "A convex mirror diverges light rays, causing them to appear to come from a point behind the mirror, thus always forming a virtual image."
+        },
+        {
+            "Question": "Why do we use convex mirrors at blind turns on roads?",
+            "Answer": "Convex mirrors provide a wider field of view, allowing drivers to see oncoming traffic from different directions, which helps in preventing accidents."
+        },
+        {
+            "Question": "Why does a concave mirror form a real image when the object is beyond the center of curvature?",
+            "Answer": "When the object is placed beyond the center of curvature of a concave mirror, the reflected rays converge to form a real, inverted image."
+        },
+        {
+            "Question": "Why are convex mirrors used in shop security systems?",
+            "Answer": "Convex mirrors provide a panoramic view, allowing store personnel to monitor a larger area and reduce blind spots, thus enhancing security."
+        },
+        {
+            "Question": "Why does a plane mirror reverse left and right but not up and down?",
+            "Answer": "A plane mirror reverses the image laterally (left-right) due to the reflection process, but it does not invert the image vertically (up-down) because the top and bottom of the object remain in the same positions."
+        },
+        {
+            "Question": "A plane mirror is 2 meters tall. What is the minimum height a person needs to see their entire reflection if they stand 1 meter away from the mirror?",
+            "Answer": "1 meter",
+            "Steps": [
+                "For a person to see their entire reflection in a plane mirror, the height of the person must be equal to half of the height of the mirror.",
+                "Therefore, if the mirror is 2 meters tall, the person needs to be at least 1 meter tall."
+            ]
+        },
+        {
+            "Question": "An object is placed 10 cm in front of a concave mirror with a focal length of 5 cm. Where is the image formed?",
+            "Answer": "At 10 cm in front of the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 5 cm and u = -10 cm (object distance is negative for mirrors)",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/5 - 1/(-10))",
+                "Calculate v to find the image distance: v = 10 cm"
+            ]
+        },
+        {
+            "Question": "An object is placed 15 cm in front of a convex mirror with a focal length of 10 cm. Where is the image formed?",
+            "Answer": "5.88 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -10 cm (focal length is negative for convex mirrors) and u = -15 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-10) - 1/(-15))",
+                "Calculate v to find the image distance: v = -5.88 cm (since it’s a convex mirror, the image is virtual and behind the mirror)"
+            ]
+        },
+        {
+            "Question": "A concave mirror has a radius of curvature of 20 cm. What is its focal length?",
+            "Answer": "10 cm",
+            "Steps": [
+                "Use the relationship between focal length (f) and radius of curvature (R): f = R/2",
+                "Here, R = 20 cm",
+                "Calculate f: f = 20 / 2",
+                "The focal length is 10 cm"
+            ]
+        },
+        {
+            "Question": "An object is 30 cm from a concave mirror with a focal length of 10 cm. Where will the image form?",
+            "Answer": "15 cm in front of the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 10 cm and u = -30 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/10 - 1/(-30))",
+                "Calculate v to find the image distance: v = 15 cm"
+            ]
+        },
+        {
+            "Question": "A convex mirror has a focal length of 25 cm. An object is placed 50 cm from the mirror. Find the position of the image.",
+            "Answer": "16.67 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -25 cm (focal length is negative for convex mirrors) and u = -50 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-25) - 1/(-50))",
+                "Calculate v to find the image distance: v = -16.67 cm (negative value indicates that the image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "An object 5 cm high is placed 20 cm in front of a concave mirror of focal length 10 cm. Find the size of the image.",
+            "Answer": "10 cm high",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 10 cm and u = -20 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/10 - 1/(-20))",
+                "Calculate v to find the image distance: v = 20 cm",
+                "Use the magnification formula: M = v/u",
+                "Calculate magnification: M = 20 / (-20) = -1",
+                "The size of the image = |M| * height of the object = 1 * 5 cm = 10 cm"
+            ]
+        },
+        {
+            "Question": "An object is placed 25 cm from a convex mirror with a focal length of 15 cm. Calculate the position of the image.",
+            "Answer": "9.375 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -15 cm and u = -25 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-15) - 1/(-25))",
+                "Calculate v to find the image distance: v = -9.375 cm (image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "A ray of light strikes a plane mirror at an angle of 40 degrees. What is the angle of reflection?",
+            "Answer": "40 degrees",
+            "Steps": [
+                "The angle of incidence is equal to the angle of reflection in a plane mirror.",
+                "Thus, the angle of reflection is also 40 degrees."
+            ]
+        },
+        {
+            "Question": "A convex mirror has a focal length of 30 cm. An object is placed 60 cm from the mirror. Where is the image located?",
+            "Answer": "20 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -30 cm and u = -60 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-30) - 1/(-60))",
+                "Calculate v to find the image distance: v = -20 cm (image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "The radius of curvature of a concave mirror is 16 cm. Calculate its focal length.",
+            "Answer": "8 cm",
+            "Steps": [
+                "Use the relationship between focal length (f) and radius of curvature (R): f = R/2",
+                "Here, R = 16 cm",
+                "Calculate f: f = 16 / 2",
+                "The focal length is 8 cm"
+            ]
+        },
+        {
+            "Question": "An object is 10 cm from a convex mirror with a focal length of 15 cm. Where is the image formed?",
+            "Answer": "6 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -15 cm and u = -10 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-15) - 1/(-10))",
+                "Calculate v to find the image distance: v = -6 cm (image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "A concave mirror has a focal length of 12 cm. If an object is placed 24 cm from the mirror, where will the image form?",
+            "Answer": "24 cm in front of the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 12 cm and u = -24 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/12 - 1/(-24))",
+                "Calculate v to find the image distance: v = 24 cm"
+            ]
+        },
+        {
+            "Question": "An object is placed 10 cm from a concave mirror with a focal length of 20 cm. Find the image distance.",
+            "Answer": "6.67 cm in front of the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 20 cm and u = -10 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/20 - 1/(-10))",
+                "Calculate v to find the image distance: v = 6.67 cm"
+            ]
+        },
+        {
+            "Question": "A concave mirror forms an image 12 cm in front of the mirror. If the object distance is 8 cm, what is the focal length of the mirror?",
+            "Answer": "4.8 cm",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, v = 12 cm and u = -8 cm",
+                "Rearrange the formula to solve for f: 1/f = 1/v - 1/u",
+                "Substitute the values: 1/f = 1/12 - 1/(-8)",
+                "Calculate f: f = 4.8 cm"
+            ]
+        },
+        {
+            "Question": "A convex mirror has a focal length of 20 cm. An object is placed 40 cm from the mirror. Where is the image formed?",
+            "Answer": "13.33 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -20 cm and u = -40 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-20) - 1/(-40))",
+                "Calculate v to find the image distance: v = -13.33 cm (image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "An object 3 cm high is placed 15 cm from a concave mirror with a focal length of 5 cm. What is the height of the image?",
+            "Answer": "6 cm",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 5 cm and u = -15 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/5 - 1/(-15))",
+                "Calculate v to find the image distance: v = 7.5 cm",
+                "Use the magnification formula: M = v/u",
+                "Calculate magnification: M = 7.5 / (-15) = -0.5",
+                "The size of the image = |M| * height of the object = 0.5 * 3 cm = 6 cm"
+            ]
+        },
+        {
+            "Question": "A concave mirror forms an image 10 cm behind the mirror. If the object distance is 30 cm, what is the focal length?",
+            "Answer": "-15 cm",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, v = -10 cm (image is behind the mirror) and u = -30 cm",
+                "Rearrange the formula to solve for f: 1/f = 1/v - 1/u",
+                "Substitute the values: 1/f = 1/(-10) - 1/(-30)",
+                "Calculate f: f = -15 cm"
+            ]
+        },
+        {
+            "Question": "An object is placed 25 cm from a convex mirror with a focal length of 10 cm. What is the image distance?",
+            "Answer": "7.14 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -10 cm and u = -25 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-10) - 1/(-25))",
+                "Calculate v to find the image distance: v = -7.14 cm (image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "An object 8 cm tall is placed 20 cm from a concave mirror with a focal length of 10 cm. What is the height of the image?",
+            "Answer": "16 cm",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 10 cm and u = -20 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/10 - 1/(-20))",
+                "Calculate v to find the image distance: v = 20 cm",
+                "Use the magnification formula: M = v/u",
+                "Calculate magnification: M = 20 / (-20) = -1",
+                "The size of the image = |M| * height of the object = 1 * 8 cm = 16 cm"
+            ]
+        },
+        {
+            "Question": "A plane mirror is 1.5 meters tall. What is the maximum distance from the mirror at which a person 1.8 meters tall can see their entire reflection?",
+            "Answer": "1.5 meters",
+            "Steps": [
+                "For a person to see their entire reflection in a plane mirror, the height of the person must be equal to the height of the mirror.",
+                "Therefore, the maximum distance from the mirror is equal to the height of the mirror, which is 1.5 meters."
+            ]
+        },
+        {
+            "Question": "An object is placed 5 cm from a convex mirror with a focal length of 10 cm. Where is the image formed?",
+            "Answer": "3.33 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -10 cm and u = -5 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-10) - 1/(-5))",
+                "Calculate v to find the image distance: v = -3.33 cm (image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "An object is placed 12 cm from a concave mirror with a focal length of 6 cm. Calculate the image distance.",
+            "Answer": "8 cm in front of the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 6 cm and u = -12 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/6 - 1/(-12))",
+                "Calculate v to find the image distance: v = 8 cm"
+            ]
+        },
+        {
+            "Question": "An object is placed 30 cm from a convex mirror with a focal length of 15 cm. Where is the image formed?",
+            "Answer": "10 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -15 cm and u = -30 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-15) - 1/(-30))",
+                "Calculate v to find the image distance: v = -10 cm (image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "An object is placed 5 cm from a plane mirror. How far is the image from the mirror?",
+            "Answer": "5 cm",
+            "Steps": [
+                "In a plane mirror, the image distance is equal to the object distance.",
+                "Thus, if the object is 5 cm from the mirror, the image is also 5 cm from the mirror."
+            ]
+        },
+        {
+            "Question": "An object is placed 40 cm from a concave mirror with a focal length of 20 cm. Where is the image formed?",
+            "Answer": "40 cm in front of the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 20 cm and u = -40 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/20 - 1/(-40))",
+                "Calculate v to find the image distance: v = 40 cm"
+            ]
+        },
+        {
+            "Question": "A convex mirror has a focal length of 12 cm. An object is placed 24 cm from the mirror. Where is the image located?",
+            "Answer": "8 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -12 cm and u = -24 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-12) - 1/(-24))",
+                "Calculate v to find the image distance: v = -8 cm (image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "An object is 4 cm tall and is placed 15 cm in front of a concave mirror with a focal length of 10 cm. Find the height of the image.",
+            "Answer": "6 cm",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 10 cm and u = -15 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/10 - 1/(-15))",
+                "Calculate v to find the image distance: v = 30 cm",
+                "Use the magnification formula: M = v/u",
+                "Calculate magnification: M = 30 / (-15) = -2",
+                "The size of the image = |M| * height of the object = 2 * 4 cm = 8 cm"
+            ]
+        },
+        {
+            "Question": "A plane mirror is 2 meters tall. What is the minimum height a person needs to see their entire reflection if they stand 1 meter away from the mirror?",
+            "Answer": "1 meter",
+            "Steps": [
+                "For a person to see their entire reflection in a plane mirror, the height of the person must be equal to half the height of the mirror.",
+                "Therefore, the minimum height of the person needed to see their entire reflection is 1 meter."
+            ]
+        },
+        {
+            "Question": "An object is placed 18 cm from a concave mirror with a focal length of 9 cm. Where is the image formed?",
+            "Answer": "18 cm in front of the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 9 cm and u = -18 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/9 - 1/(-18))",
+                "Calculate v to find the image distance: v = 18 cm"
+            ]
+        },
+        {
+            "Question": "An object is placed 10 cm from a convex mirror with a focal length of 20 cm. What is the image distance?",
+            "Answer": "6.67 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -20 cm and u = -10 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-20) - 1/(-10))",
+                "Calculate v to find the image distance: v = -6.67 cm (image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "A concave mirror has a focal length of 8 cm. An object is placed 16 cm from the mirror. Find the position of the image.",
+            "Answer": "16 cm in front of the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 8 cm and u = -16 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/8 - 1/(-16))",
+                "Calculate v to find the image distance: v = 16 cm"
+            ]
+        },
+        {
+            "Question": "An object is 5 cm high and is placed 12 cm from a concave mirror with a focal length of 6 cm. Find the height of the image.",
+            "Answer": "10 cm",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 6 cm and u = -12 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/6 - 1/(-12))",
+                "Calculate v to find the image distance: v = 12 cm",
+                "Use the magnification formula: M = v/u",
+                "Calculate magnification: M = 12 / (-12) = -1",
+                "The size of the image = |M| * height of the object = 1 * 5 cm = 10 cm"
+            ]
+        },
+        {
+            "Question": "An object is placed 20 cm from a convex mirror with a focal length of 10 cm. Where is the image located?",
+            "Answer": "6.67 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -10 cm and u = -20 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-10) - 1/(-20))",
+                "Calculate v to find the image distance: v = -6.67 cm (image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "A concave mirror has a focal length of 30 cm. If an object is placed 60 cm from the mirror, where will the image be formed?",
+            "Answer": "60 cm in front of the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 30 cm and u = -60 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/30 - 1/(-60))",
+                "Calculate v to find the image distance: v = 60 cm"
+            ]
+        },
+        {
+            "Question": "An object 7 cm tall is placed 21 cm from a concave mirror with a focal length of 7 cm. Find the height of the image.",
+            "Answer": "21 cm",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 7 cm and u = -21 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/7 - 1/(-21))",
+                "Calculate v to find the image distance: v = 21 cm",
+                "Use the magnification formula: M = v/u",
+                "Calculate magnification: M = 21 / (-21) = -1",
+                "The size of the image = |M| * height of the object = 1 * 7 cm = 7 cm"
+            ]
+        },
+        {
+            "Question": "An object is placed 8 cm in front of a concave mirror with a focal length of 4 cm. Find the image distance.",
+            "Answer": "2.67 cm in front of the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 4 cm and u = -8 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/4 - 1/(-8))",
+                "Calculate v to find the image distance: v = 2.67 cm"
+            ]
+        },
+        {
+            "Question": "A convex mirror has a focal length of 18 cm. An object is placed 54 cm from the mirror. Where is the image located?",
+            "Answer": "13.5 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -18 cm and u = -54 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-18) - 1/(-54))",
+                "Calculate v to find the image distance: v = -13.5 cm (image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "An object is placed 25 cm from a concave mirror with a focal length of 15 cm. Find the size of the image.",
+            "Answer": "18.75 cm",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 15 cm and u = -25 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/15 - 1/(-25))",
+                "Calculate v to find the image distance: v = 37.5 cm",
+                "Use the magnification formula: M = v/u",
+                "Calculate magnification: M = 37.5 / (-25) = -1.5",
+                "The size of the image = |M| * height of the object = 1.5 * height of the object = 18.75 cm"
+            ]
+        },
+        {
+            "Question": "An object is placed 12 cm from a convex mirror with a focal length of 6 cm. Where is the image formed?",
+            "Answer": "4 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -6 cm and u = -12 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-6) - 1/(-12))",
+                "Calculate v to find the image distance: v = -4 cm (image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "A concave mirror has a focal length of 25 cm. An object is placed 30 cm from the mirror. Find the image distance.",
+            "Answer": "150 cm in front of the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 25 cm and u = -30 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/25 - 1/(-30))",
+                "Calculate v to find the image distance: v = 150 cm"
+            ]
+        },
+        {
+            "Question": "An object is placed 50 cm from a concave mirror with a focal length of 10 cm. Find the size of the image.",
+            "Answer": "25 cm",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 10 cm and u = -50 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/10 - 1/(-50))",
+                "Calculate v to find the image distance: v = 12.5 cm",
+                "Use the magnification formula: M = v/u",
+                "Calculate magnification: M = 12.5 / (-50) = -0.25",
+                "The size of the image = |M| * height of the object = 0.25 * 50 cm = 25 cm"
+            ]
+        },
+        {
+            "Question": "A convex mirror has a focal length of 40 cm. An object is placed 80 cm from the mirror. Where is the image located?",
+            "Answer": "26.67 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -40 cm and u = -80 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-40) - 1/(-80))",
+                "Calculate v to find the image distance: v = -26.67 cm (image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "An object 6 cm tall is placed 18 cm from a concave mirror with a focal length of 12 cm. Find the height of the image.",
+            "Answer": "9 cm tall",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 12 cm and u = -18 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/12 - 1/(-18))",
+                "Calculate v to find the image distance: v = 36 cm",
+                "Use the magnification formula: M = v/u",
+                "Calculate magnification: M = 36 / (-18) = -2",
+                "The size of the image = |M| * height of the object = 2 * 6 cm = 12 cm"
+            ]
+        },
+        {
+            "Question": "An object is placed 30 cm from a convex mirror with a focal length of 15 cm. Where is the image formed?",
+            "Answer": "10 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -15 cm and u = -30 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-15) - 1/(-30))",
+                "Calculate v to find the image distance: v = -10 cm (image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "A concave mirror has a focal length of 18 cm. If an object is placed 54 cm from the mirror, where will the image form?",
+            "Answer": "54 cm in front of the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 18 cm and u = -54 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/18 - 1/(-54))",
+                "Calculate v to find the image distance: v = 54 cm"
+            ]
+        },
+        {
+            "Question": "An object is placed 22 cm from a convex mirror with a focal length of 11 cm. Find the image distance.",
+            "Answer": "7.33 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -11 cm and u = -22 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-11) - 1/(-22))",
+                "Calculate v to find the image distance: v = -7.33 cm (image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "A plane mirror is 2 meters tall. What is the minimum height a person needs to see their entire reflection if they stand 1 meter away from the mirror?",
+            "Answer": "1 meter",
+            "Steps": [
+                "To see the entire reflection, the minimum height required is half the height of the mirror.",
+                "Thus, the minimum height a person needs is 2 meters / 2 = 1 meter."
+            ]
+        },
+        {
+            "Question": "An object is placed 22 cm from a convex mirror with a focal length of 11 cm. Find the image distance.",
+            "Answer": "7.33 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -11 cm and u = -22 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-11) - 1/(-22))",
+                "Calculate v to find the image distance: v = -7.33 cm (image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "A concave mirror has a radius of curvature of 20 cm. What is its focal length?",
+            "Answer": "10 cm",
+            "Steps": [
+                "The focal length (f) of a concave mirror is half of its radius of curvature (R).",
+                "So, f = R/2 = 20/2 = 10 cm."
+            ]
+        },
+        {
+            "Question": "An object is placed 10 cm in front of a concave mirror with a focal length of 5 cm. Where is the image formed?",
+            "Answer": "At 10 cm in front of the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 5 cm and u = -10 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/5 - 1/(-10))",
+                "Calculate v to find the image distance: v = -10 cm (image is in front of the mirror)"
+            ]
+        },
+        {
+            "Question": "An object is placed 15 cm in front of a convex mirror with a focal length of 10 cm. Where is the image formed?",
+            "Answer": "5.88 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -10 cm and u = -15 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-10) - 1/(-15))",
+                "Calculate v to find the image distance: v = -5.88 cm (image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "An object is 30 cm from a concave mirror with a focal length of 10 cm. Where will the image form?",
+            "Answer": "15 cm in front of the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 10 cm and u = -30 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/10 - 1/(-30))",
+                "Calculate v to find the image distance: v = -15 cm (image is in front of the mirror)"
+            ]
+        },
+        {
+            "Question": "A convex mirror has a focal length of 25 cm. An object is placed 50 cm from the mirror. Find the position of the image.",
+            "Answer": "16.67 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -25 cm and u = -50 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-25) - 1/(-50))",
+                "Calculate v to find the image distance: v = -16.67 cm (image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "An object 5 cm high is placed 20 cm in front of a concave mirror of focal length 10 cm. Find the size of the image.",
+            "Answer": "10 cm high",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = 10 cm and u = -20 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/10 - 1/(-20))",
+                "Calculate v to find the image distance: v = -20 cm (image is in front of the mirror)",
+                "The magnification m = -v/u = -(-20)/(-20) = 1",
+                "Image size = magnification * object size = 1 * 5 cm = 10 cm"
+            ]
+        },
+        {
+            "Question": "An object is placed 25 cm from a convex mirror with a focal length of 15 cm. Calculate the position of the image.",
+            "Answer": "9.375 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -15 cm and u = -25 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-15) - 1/(-25))",
+                "Calculate v to find the image distance: v = -9.375 cm (image is behind the mirror)"
+            ]
+        },
+        {
+            "Question": "A ray of light strikes a plane mirror at an angle of 40 degrees. What is the angle of reflection?",
+            "Answer": "40 degrees",
+            "Steps": [
+                "The law of reflection states that the angle of incidence is equal to the angle of reflection.",
+                "So, if the angle of incidence is 40 degrees, the angle of reflection is also 40 degrees."
+            ]
+        },
+        {
+            "Question": "A convex mirror has a focal length of 30 cm. An object is placed 60 cm from the mirror. Where is the image located?",
+            "Answer": "20 cm behind the mirror",
+            "Steps": [
+                "Use the mirror formula: 1/f = 1/v + 1/u",
+                "Here, f = -30 cm and u = -60 cm",
+                "Rearrange the formula to solve for v: v = 1 / (1/f - 1/u)",
+                "Substitute the values: v = 1 / (1/(-30) - 1/(-60))",
+                "Calculate v to find the image distance: v = -20 cm (image is behind the mirror)"
+            ]
+        }
+        
+    ]
+}
